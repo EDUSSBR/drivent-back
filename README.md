@@ -1,10 +1,31 @@
-# Driven.t - Back-end
+# DRIVENT - BACKEND
 
-Back-end for Driven.t, an event management solution.
+This is the backend of a white-label app designed for selling events and facilitating talk subscriptions, with the added capability of booking accommodations in partner hotels.
 
 ## About
 
-Driven.t is a web browser application with which you can manage every single aspect of your event.
+Introducing a web application for easy getting the clients for your events. Key features include:
+
+- User Sign Up
+- Secure Login
+- Event Subcription
+- Ability to sell both In-person and Remote Ticket
+- Seamless integration with partner hotels, simplifying the booking process for users across a wide range of options.
+- Direct Credit Card Payments
+- Capacity Management for event venues.
+- Hotel Room Booking Management.
+- Users have the flexibility to switch rooms if desired.
+- Tracking of subscribed users for each activity.
+- Generation of certifications after the event concludes.
+
+## Technologies
+The following tools and frameworks were used in the construction of the project:<br>
+
+<p>
+  
+  [![My Skills](https://skillicons.dev/icons?i=jest,nodejs,ts,postgres,redis,git,express,prisma)](https://skillicons.dev)
+  
+</p>
 
 ## How to run for development
 
